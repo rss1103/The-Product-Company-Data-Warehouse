@@ -1,0 +1,38 @@
+
+Shrunken Year
+
+insert into year_shrunken_dim(Year) 
+select Year from order_date
+Group by Year;
+
+Shrunken Fact
+
+
+INSERT INTO financial_shrunken_fact
+SELECT SUM(ShipDays),sales_fact.product_SK,year_Shrunken_PK
+FROM year_shrunken_dim INNER JOIN saledate_dim
+ON year_shrunken_dim.year = order_date.Year
+INNER JOIN sales_fact
+ON order_date.OrderDate_SK = Sales_fact.OrderDate_SK
+group by year_Shrunken_PK,sales_fact.Product_SK;
+
+Shrunken Query 1
+
+SELECT SUM(ShipDays),sales_fact.Product_SK,year_Shrunken_PK
+FROM year_shrunken_dim INNER JOIN order_date
+ON year_shrunken_dim.Year = order_date.Year
+INNER JOIN sales_fact
+ON order_date.OrderDate_SK= sales_fact.OrderDate_SK
+where sales_fact.Product_SK = 183
+group by year_Shrunken_PK,sales_fact.product_SK;
+
+Shrunken Query 2
+
+
+SELECT SUM(ShipDays),sales_fact.Product_SK,year_Shrunken_PK
+FROM year_shrunken_dim INNER JOIN order_date
+ON year_shrunken_dim.Year = order_date.Year
+INNER JOIN sales_fact
+ON order_date.OrderDate_SK= sales_fact.OrderDate_SK
+where year_shrunken_PK = 3
+group by year_Shrunken_PK,sales_fact.product_SK;

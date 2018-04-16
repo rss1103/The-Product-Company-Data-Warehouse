@@ -1,0 +1,122 @@
+custID;name;Address 1;Address 2;city;state;zip;Type Name;Customer Type ID;Customer_Company_Origin
+3;YuliChem;6440 Amet Street;;Laguna Woods;KY;53141;Commercial ;C;TPC-W
+6;Austin Ferrell;8666 Justo Road;;Pullman ;PA;55979;Commercial ;C;TPC-W
+9;Meridian Resources Corporation;Dept #805 1977 Symbiotic Turnpike;;Fall River;MA;2724;Commercial ;C;TPC-W
+10;Byron Chemicals ;6831 Donec Street;;Salt Lake City;IN;41050;Commercial ;C;TPC-W
+11;Beasley ;7800 Nec Road;;Idabel;MA;57132;Commercial ;C;TPC-W
+12;Processing Equipment Corporation;29843 Klingon Road;;Naperville;IL;60563;Commercial ;C;TPC-W
+15;Merritt Long;3072 Cursus Avenue;Suite 30;West Haven;WY;83709;Commercial ;C;TPC-W
+21;Santos LLC. ;9130 Fames Road;;Billings;IN;12869;Commercial ;C;TPC-W
+28;Oleg Jones;5491 Nec Road;;Moraga;NE;82394;Commercial ;C;TPC-W
+32;Mendoza Chem;4826 Urna Avenue;;Everett ;MD;87048;Commercial ;C;TPC-W
+38;Blevins ;2571 Donec Avenue;;Winooski;SD;65512;Commercial ;C;TPC-W
+4;Austin Burns;2041 Venenatis Avenue;;Alexandria;DC;34440;Education;E;TPC-W
+7;Hop Adams ;704 Nisl Road;;Sun Valley;NH;84458;Education;E;TPC-W
+19;Firstfed America Bancorp Incorpora;5656 Settler Street;;Ward Prairie;TX;75840;Education;E;TPC-W
+25;Garrison Works;3801 Lacus Road;;Reno;WV;46307;Education;E;TPC-W
+27;Emerson Electric Corporation;1792 Squash Drive;;South Texarkana ;TX;75501;Education;E;TPC-W
+29;Genevieve Day ;284-1916 Ac Street;;Troy;IN;68914;Education;E;TPC-W
+36;Charity Incorporated. ;3254 Hendrerit Avenue;;Effingham ;WY;27502;Education;E;TPC-W
+37;Ronan French;8773 Feugiat Road;;Gary;WA;17387;Education;E;TPC-W
+39;Ashton Washington ;7726 Donec Road;;Vallejo ;MA;1999;Education;E;TPC-W
+1;Beverly Equipment ;7581 Quisque Street;;Bloomington ;HI;88440;State_Local_Gov;S;TPC-W
+2;Clio-Hutchinson ;1257 Ac Avenue;;Butler;SC;82126;State_Local_Gov;S;TPC-W
+8;Mullins Incorporated. ;4009 Ornare Road;;Birmingham;NE;59509;State_Local_Gov;S;TPC-W
+13;Zena Machines ;1277 Hendrerit Avenue;;San Juan;WA;7066;State_Local_Gov;S;TPC-W
+14;The Final Frontier;528 Curabitur Road;;Biddeford ;MO;39683;State_Local_Gov;S;TPC-W
+17;Camera Platforms International Inc;5347 Deposed Street;;Houston ;TX;77244;State_Local_Gov;S;TPC-W
+20;Price Rivers;2853 Aenean Avenue;;Sault Ste. Marie;MS;59316;State_Local_Gov;S;TPC-W
+22;Santiago Processing ;4565 Tempor Avenue;;Hanahan ;AK;15743;State_Local_Gov;S;TPC-W
+23;Chemfix Technologies Incorporated ;11533 Wonderingly Drive;Suite 50;Pasadena Hills;MO;63121;State_Local_Gov;S;TPC-W
+24;Chantale-Huffman Incorporated.;2761 Infinity Street;;New Iberia;NH;65327;State_Local_Gov;S;TPC-W
+26;Ruby Petty;3142 Congue;Street;Chicago ;IL;76404;State_Local_Gov;S;TPC-W
+30;Setron;3085 Breakthrough Drive;Dept #80;Hart;MO;64865;State_Local_Gov;S;TPC-W
+34;Pulitzer Publishing Company ;126 Pathological Circle;;Woodbury;NY;11797;State_Local_Gov;S;TPC-W
+40;Gte Corporation ;7196 Heaver Lane;Dept #532;Winter Garden ;FL;34777;State_Local_Gov;S;TPC-W
+5;Saint Andrews Golf Corporation;8068 Substances Street;;North Miami ;FL;33261;US Govt;F;TPC-W
+16;Martinez Disposables;5331 Nunc Avenue;;Tucson;DC;79991;US Govt;F;TPC-W
+18;Cross ;6605 Rhoncus Avenue;;Hopkinsville;NH;25620;US Govt;F;TPC-W
+31;Fuentes Incorporated. ;7063 Phasellus Road;;Compton ;WV;68519;US Govt;F;TPC-W
+33;India-Stuart;1973 At Avenue;;Cudahy;CA;76482;US Govt;F;TPC-W
+35;Ferdinand Supply;6979 Quis Street;;Nome;DE;58359;US Govt;F;TPC-W
+3;Baxter May;796-2366 Vel Avenue;;Meriden ;FL;58328;Commercial ;C;PEC
+6;Raphael Allison ;734-2598 Sed Avenue;;La Crosse ;HI;58702;Commercial ;C;PEC
+9;The Product Company (East);20021 Barnes Road;;Stratford ;NY;13470;Commercial ;C;PEC
+11;Austin Ferrell;8666 Justo Road;;Pullman ;PA;55979;Commercial ;C;PEC
+14;Serrano ;7212 Eleifend Street;;Princeton ;KY;66785;Commercial ;C;PEC
+15;Colton Maldonado;1869 Leo Road;;Cedar Rapids;SD;97640;Commercial ;C;PEC
+16;Googol;5453 Dictum Avenue;;Jenks ;LA;96393;Commercial ;C;PEC
+20;Pewter Gym;9028 Non Street;;Sandy ;FL;87202;Commercial ;C;PEC
+27;Clare Baird ;6152 Auctor Road;;Wilson;MS;29338;Commercial ;C;PEC
+29;Blevins ;2571 Donec Avenue;;Winooski;SD;65512;Commercial ;C;PEC
+30;Knox Reid ;500 Eu Avenue;;Pass Christian;WY;35949;Commercial ;C;PEC
+32;Ferengi Treasures ;716-6837 Vulputate Avenue;;Paramount ;NY;35644;Commercial ;C;PEC
+33;Tallulah;3376 Aliquet Street;;Batavia ;NM;50742;Commercial ;C;PEC
+34;The Product Company (West);21 E Bullard Avenue;;Fresno;CA;93710;Commercial ;C;PEC
+1;Haynes;2920 Auctor Road;;Moraga;AZ;70314;Education;E;PEC
+7;Martin Donaldson;2704 At Road;;Gardner ;GA;31421;Education;E;PEC
+18;Melvin House;8371 Nullam Road;;Isle of Palms ;ME;89644;Education;E;PEC
+19;Emerson Electric Corporation;1792 Squash Drive;;South Texarkana ;TX;75501;Education;E;PEC
+21;Hop Adams ;704 Nisl Road;;Sun Valley;NH;84458;Education;E;PEC
+22;Xavier Harmon ;2285 Ante Street;;Farmington;WV;16456;Education;E;PEC
+28;Schultz Learning;8542 Quis Street;;Spartanburg ;ND;73217;Education;E;PEC
+31;Starfleet Academy ;3061 Donec Avenue;;Canandaigua ;UT;75963;Education;E;PEC
+38;Firstfed America Bancorp Incorpora;5656 Settler Street;;Ward Prairie;TX;75840;Education;E;PEC
+39;Ronan French;8773 Feugiat Road;;Gary;WA;17387;Education;E;PEC
+2;Rudyard-Knapp ;9261 Nulla Street;;Sault Ste. Marie;LA;94298;State_Local Gov;S;PEC
+4;Maya Brewer ;6836 At;P.O. Box 825;Union City;ND;82051;State_Local Gov;S;PEC
+5;Mullins Incorporated. ;4009 Ornare Road;;Birmingham;NE;59509;State_Local Gov;S;PEC
+10;Hammett Farley;1668 In Street;;Yonkers ;AK;18651;State_Local Gov;S;PEC
+12;Cain;1116 Augue Street;;Warwick ;DC;38450;State_Local Gov;S;PEC
+25;Atkins;4607 Risus Road;;Waukegan;NC;43147;State_Local Gov;S;PEC
+37;Beverly Equipment ;7581 Quisque Street;;Bloomington ;HI;88440;State_Local Gov;S;PEC
+40;Zena Machines ;1277 Hendrerit Avenue;;San Juan;WA;7066;State_Local Gov;S;PEC
+8;Gemma Castro;9101 Duis Street;;Passaic ;VT;40926;US Govt;F;PEC
+13;Knight;765 Eget Avenue;;Eureka;FL;57500;US Govt;F;PEC
+17;Mallory Lynch ;974 Nisl Road;;Washington;ME;15623;US Govt;F;PEC
+23;Cross ;112 In Road;;Opelousas ;GA;43882;US Govt;F;PEC
+24;Martinez Disposables;5331 Nunc Avenue;;Tucson;DC;79991;US Govt;F;PEC
+26;Dakota Mills;7442 Amet Avenue;;Syracuse;DE;56656;US Govt;F;PEC
+35;Ann Lee ;3845 Nunc Road;;Merizo;GA;10764;US Govt;F;PEC
+36;Kuame Barnes;8757 Tincidunt Road;;Lahaina ;RI;60529;US Govt;F;PEC
+1;Room Plus Incorporated;6037 Ecuadorian Street;Suite 836;Clinton ;MI;49236;Commercial ;C;TPC-E
+11;Synaptic Pharmaceutical Corporatio;8072 Powerless Street;;Bridgeport;IL;62417;Commercial ;C;TPC-E
+15;Railamerica Incorporated;576 Stew Turnpike;;Mans De Navarro ;PR;778;Commercial ;C;TPC-E
+16;Meridian Resources Corporation;1977 Symbiotic Turnpike;Dept #804;Fall River;MA;2724;Commercial ;C;TPC-E
+33;Polymer Group Incorporated. ;11368 Harder Drive;Suite 204;Maidstone ;VT;5905;Commercial ;C;TPC-E
+39;Pricellular Corporation ;10947 Eagle Street;Dept #5;Lisbon Falls;ME;4252;Commercial ;C;TPC-E
+40;Processing Equipment Corporation;29843 Klingon Road;Dept #2;Naperville;IL;60563;Commercial ;C;TPC-E
+2;Motts Holdings Incorporated.;1618 Greenland Street;;Tallahassee ;FL;32304;Education;E;TPC-E
+3;Beckman Coulter Incorporated. ;5841 Pervades Drive;;Fairfax ;VA;22035;Education;E;TPC-E
+5;Sterling Financial Corporation Was;7258 Meriting Avenue;Dept #505;Portland;OR;97201;Education;E;TPC-E
+7;Fedders Corporation ;3311 Blatantly Circle;Dept #520;Santa Fe Springs;CA;90670;Education;E;TPC-E
+8;United Healthcare Corporation ;675 Hordes Turnpike;Dept #855;Malaga;NM;88263;Education;E;TPC-E
+24;Helpmate Robotics Incorporated;9711 Writers Turnpike;Suite 213;Saint Cloud ;WI;53079;Education;E;TPC-E
+26;Firstfed America Bancorp Incorpora;5656 Settler Street;Dept #851;Ward Prairie;TX;75840;Education;E;TPC-E
+34;Emerson Electric Co.;1792 Squash Drive;;South Texarkana ;TX;75501;Education;E;TPC-E
+37;Televideo Incorporated. ;939 Publishers Turnpike;Dept #793;Fort Hood ;TX;76544;Education;E;TPC-E
+0;Specialty Teleconstructors Incorpo;1570 Hordes Drive;;Columbia;SC;29260;US Govt;F;TPC-E
+4;Magainin Pharmaceuticals Incorpora;9138 Planetesimal Lane;Dept #332;Twining ;MI;48766;US Govt;F;TPC-E
+9;Greate Bay Casino Corporation De;4255 Depart Lane;Dept #242;Randolph Air For;TX;78148;US Govt;F;TPC-E
+10;Saint Andrews Golf Corporation;8068 Substances Street;;North Miami ;FL;33261;US Govt;F;TPC-E
+12;Cohesant Technologies Incorporated;3334 Eggshell Circle;Dept #690;Oakley;SC;29461;US Govt;F;TPC-E
+17;V.e.v. Sa ;7079 Aspect Circle;;Ross Siding ;PA;17723;US Govt;F;TPC-E
+18;Scp Pool Corporation;755 Leek Street;Suite 251;Enid;OK;73706;US Govt;F;TPC-E
+20;Labor Ready Incorporated;4618 Days Drive;Dept #759;Waterville;WA;98858;US Govt;F;TPC-E
+23;Ligand Pharmaceuticals Incorporate;8092 Bluest Street;;Moorcroft ;WY;82721;US Govt;F;TPC-E
+25;Liberty Homes Incorporated;3051 Bumblers Lane;;Medon ;TN;38356;US Govt;F;TPC-E
+27;Lnr Property Corporation;9382 Demolition Street;;College Square;IA;50613;US Govt;F;TPC-E
+32;Greenman Technologies Incorporated;4910 Liveried Boulevard;;Dabney;IN;47023;US Govt;F;TPC-E
+35;Integra -- A Hotel & Restaurant Co;5222 Blazed Street;Dept #822;Parsons ;TN;38363;US Govt;F;TPC-E
+36;Hickory Tech Corporation;11119 Periphery Turnpike;Dept #633;Simpson ;LA;71474;US Govt;F;TPC-E
+38;Seattle Filmworks Incorporated. ;4958 Dietitian Street;;Davis ;MO;63379;US Govt;F;TPC-E
+6;Fidelity National Corporation Ga;11455 Sheaf Drive;Dept #915;Anthony ;FL;32617;State_Local Gov;S;TPC-E
+13;Publishing CorporationOf North Ame;978 Degrees Street;Suite 518;Heron Bay ;AL;36523;State_Local Gov;S;TPC-E
+14;Newcor Incorporated ;8717 Involve Drive;Suite 401;Homer ;MI;49245;State_Local Gov;S;TPC-E
+19;Camera Platforms International Inc;5347 Deposed Street;;Houston ;TX;77244;State_Local Gov;S;TPC-E
+21;Shaw Brothers ;2567 Cardinal Drive;Suite 371;Whiskey Flats ;NV;89415;State_Local Gov;S;TPC-E
+22;Chemfix Technologies Incorporated ;11533 Wonderingly Drive;Suite 50;Pasadena Hills;MO;63121;State_Local Gov;S;TPC-E
+28;Gte Corporation ;7196 Heaver Lane;Dept #532;Winter Garden ;FL;34777;State_Local Gov;S;TPC-E
+29;Usx-steel Group Incorporated. ;7120 Whimsically Turnpike;;Olympia ;WA;98501;State_Local Gov;S;TPC-E
+30;Pulitzer Publishing Company ;126 Pathological Circle;Suite 277;Woodbury;NY;11797;State_Local Gov;S;TPC-E
+31;Setron;3085 Breakthrough Drive;Dept #80;Hart;MO;64865;State_Local Gov;S;TPC-E

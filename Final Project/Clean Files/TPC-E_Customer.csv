@@ -1,0 +1,42 @@
+custID;NAME;Address 1;Address 2;city;state;zip;Type Name;Customer Type ID;Customer_Company_Origin
+1;Room Plus Incorporated ;Suite 836;6037 Ecuadorian Street ;Clinton;MI;49236;Commercial;C;TPC-E
+11;Synaptic Pharmaceutical Corporation;;8072 Powerless Street;Bridgeport ;IL;62417;Commercial;C;TPC-E
+15;Railamerica Incorporated ;;576 Stew Turnpike;Mans De Navarro;PR;00778;Commercial;C;TPC-E
+16;Meridian Resources Corporation ;Dept #804;1977 Symbiotic Turnpike;Fall River ;MA;02724;Commercial;C;TPC-E
+33;Polymer Group Incorporated.;Suite 204;11368 Harder Drive ;Maidstone;VT;05905;Commercial;C;TPC-E
+39;Pricellular Corporation;Dept #5;10947 Eagle Street ;Lisbon Falls ;ME;04252;Commercial;C;TPC-E
+40;Processing Equipment Corporation ;Dept #2;29843 Klingon Road ;Naperville ;IL;60563;Commercial;C;TPC-E
+2;Motts Holdings Incorporated. ;;1618 Greenland Street;Tallahassee;FL;32304;Education;E;TPC-E
+3;Beckman Coulter Incorporated.;;5841 Pervades Drive;Fairfax;VA;22035;Education;E;TPC-E
+5;Sterling Financial Corporation Washingt;Dept #505;7258 Meriting Avenue ;Portland ;OR;97201;Education;E;TPC-E
+7;Fedders Corporation;Dept #520;3311 Blatantly Circle;Santa Fe Springs ;CA;90670;Education;E;TPC-E
+8;United Healthcare Corporation;Dept #855;675 Hordes Turnpike;Malaga ;NM;88263;Education;E;TPC-E
+24;Helpmate Robotics Incorporated ;Suite 213;9711 Writers Turnpike;Saint Cloud;WI;53079;Education;E;TPC-E
+26;Firstfed America Bancorp Incorporated;Dept #851;5656 Settler Street;Ward Prairie ;TX;75840;Education;E;TPC-E
+34;Emerson Electric Co. ;;1792 Squash Drive;South Texarkana;TX;75501;Education;E;TPC-E
+37;Televideo Incorporated.;Dept #793;939 Publishers Turnpike;Fort Hood;TX;76544;Education;E;TPC-E
+0;Specialty Teleconstructors Incorporated;;1570 Hordes Drive;Columbia ;SC;29260;;F;TPC-E
+4;Magainin Pharmaceuticals Incorporated;Dept #332;9138 Planetesimal Lane ;Twining;MI;48766;;F;TPC-E
+9;Greate Bay Casino Corporation De ;Dept #242;4255 Depart Lane ;Randolph Air Force Base;TX;78148;;F;TPC-E
+10;Saint Andrews Golf Corporation ;;8068 Substances Street ;North Miami;FL;33261;;F;TPC-E
+12;Cohesant Technologies Incorporated ;Dept #690;3334 Eggshell Circle ;Oakley ;SC;29461;;F;TPC-E
+17;V.e.v. Sa;;7079 Aspect Circle ;Ross Siding;PA;17723;;F;TPC-E
+18;Scp Pool Corporation ;Suite 251;755 Leek Street;Enid ;OK;73706;;F;TPC-E
+20;Labor Ready Incorporated ;Dept #759;4618 Days Drive;Waterville ;WA;98858;;F;TPC-E
+23;Ligand Pharmaceuticals Incorporatedorpo;;8092 Bluest Street ;Moorcroft;WY;82721;;F;TPC-E
+25;Liberty Homes Incorporated ;;3051 Bumblers Lane ;Medon;TN;38356;;F;TPC-E
+27;Lnr Property Corporation ;;9382 Demolition Street ;College Square ;IA;50613;;F;TPC-E
+32;Greenman Technologies Incorporated ;;4910 Liveried Boulevard;Dabney ;IN;47023;;F;TPC-E
+35;Integra -- A Hotel & Restaurant Company;Dept #822;5222 Blazed Street ;Parsons;TN;38363;;F;TPC-E
+36;Hickory Tech Corporation ;Dept #633;11119 Periphery Turnpike ;Simpson;LA;71474;;F;TPC-E
+38;Seattle Filmworks Incorporated.;;4958 Dietitian Street;Davis;MO;63379;;F;TPC-E
+6;Fidelity National Corporation Ga ;Dept #915;11455 Sheaf Drive;Anthony;FL;32617;State_Local Gov;S;TPC-E
+13;Publishing CorporationOf North America ;Suite 518;978 Degrees Street ;Heron Bay;AL;36523;State_Local Gov;S;TPC-E
+14;Newcor Incorporated;Suite 401;8717 Involve Drive ;Homer;MI;49245;State_Local Gov;S;TPC-E
+19;Camera Platforms International Incorpor;;5347 Deposed Street;Houston;TX;77244;State_Local Gov;S;TPC-E
+21;Shaw Brothers;Suite 371;2567 Cardinal Drive;Whiskey Flats;NV;89415;State_Local Gov;S;TPC-E
+22;Chemfix Technologies Incorporated;Suite 50 ;11533 Wonderingly Drive;Pasadena Hills ;MO;63121;State_Local Gov;S;TPC-E
+28;Gte Corporation;Dept #532;7196 Heaver Lane ;Winter Garden;FL;34777;State_Local Gov;S;TPC-E
+29;Usx-steel Group Incorporated.;;7120 Whimsically Turnpike;Olympia;WA;98501;State_Local Gov;S;TPC-E
+30;Pulitzer Publishing Company;Suite 277;126 Pathological Circle;Woodbury ;NY;11797;State_Local Gov;S;TPC-E
+31;Setron ;Dept #80 ;3085 Breakthrough Drive;Hart ;MO;64865;State_Local Gov;S;TPC-E

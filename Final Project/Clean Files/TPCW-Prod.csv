@@ -1,0 +1,104 @@
+ProductID,ProductName,Price1,Price2,UnitCost,SupplierName,Attn,SupplierAddress,Suppliercity,Supplierstate,SupplierZipcode,ProductTypeID,origin,supplierID
+20,Flake Photo Equipment            ,232.3,204.4,194.2,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236,1,TPCW,2
+32,Chartable Photo Equipment        ,410.2,347.4,312.7,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,1,TPCW,3
+35,Chromium Photo Equipment         ,565.5,457.5,425.5,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,1,TPCW,9
+36,Bomber Photo Equipment           ,461.3,400.4,380.4,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,1,TPCW,8
+71,Simulations Photo Equipment      ,318.4,255.7,245.4,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,1,TPCW,3
+77,Vastest Photo Equipment          ,498.1,442.3,420.2,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236,1,TPCW,2
+6,Planetesimal Manufacturing Equip ,347.3,307,285.5,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,2,TPCW,6
+8,Septembers Manufacturing Equip   ,584.3,523,517.8,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Careless Drive   ,Overlook        ,WA,98366,2,TPCW,9
+18,Miniaturizing Manufacturing Equip,456.2,379.6,353,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,2,TPCW,8
+24,Bandage Manufacturing Equip      ,298,267,253.7,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236,2,TPCW,2
+34,Sailors Manufacturing Equip      ,340.5,290.4,278.8,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,2,TPCW,5
+40,Insensitivity Manufacturing Equip,200.7,180.4,169.6,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,2,TPCW,6
+44,Birthdays Manufacturing Equip    ,196.6,173.2,161.1,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,2,TPCW,6
+60,Habitually Manufacturing Equip   ,509.3,419.1,394,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,2,TPCW,3
+61,Courthouses Manufacturing Equip  ,285.6,243.6,231.4,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,2,TPCW,6
+65,Extinguisher Manufacturing Equip ,120.4,98.4,90.5,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236,2,TPCW,2
+67,Occlusion Manufacturing Equip    ,199.9,177.3,164.9,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,2,TPCW,7
+70,Escape Manufacturing Equip       ,584.4,523.6,507.9,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,2,TPCW,3
+85,Disallow Manufacturing Equip     ,165.2,145.9,144.4,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,2,TPCW,5
+87,Suing Manufacturing Equip        ,482.2,426.7,401.1,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,2,TPCW,6
+100,Pervasively Manufacturing Equip  ,374.1,334.9,308.1,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,2,TPCW,8
+1,Enumerator Polishing Equipment   ,165,142.5,135.4,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,3,TPCW,8
+21,Denigrating Polishing Equipment  ,566,454.5,427.2,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,3,TPCW,6
+25,Chalmers Polishing Equipment     ,289.2,242.6,223.2,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,3,TPCW,8
+26,Subclasses Polishing Equipment   ,282.5,239,236.6,Saurer Gruppe Holding Ag      ,Attn : Pearce Valdez      ,3737 Elms Drive       ,South Saint Paul,MN,55077,3,TPCW,10
+37,Concentrators Polishing Equipment,584.6,524.9,482.9,Immunex Corporation           ,Attn : Elbert Glad        ,5841 Pervades Drive   ,Fairfax         ,VA,22035,3,TPCW,4
+38,Syntax Polishing Equipment       ,226.7,190.9,177.5,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,3,TPCW,5
+56,Allis Polishing Equipment        ,201.8,176.3,160.5,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,3,TPCW,8
+63,Weeks Polishing Equipment        ,198.8,174.2,168.9,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,3,TPCW,7
+68,Loaves Polishing Equipment       ,425.6,361.3,354.1,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,3,TPCW,7
+81,Palm Polishing Equipment         ,122.4,105.4,103.3,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,3,TPCW,3
+93,Bellowing Polishing Equipment    ,502.6,451.3,446.8,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,3,TPCW,6
+95,Duplicator Polishing Equipment   ,544.3,465.4,432.8,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,3,TPCW,7
+4,Embodying Cleaning Supplies      ,250.9,213.5,207.1,Immunex Corporation           ,Attn : Elbert Glad        ,5841 Pervades Drive   ,Fairfax         ,VA,22035,5,TPCW,4
+17,Optima Cleaning Supplies         ,288.4,255.5,242.8,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,5,TPCW,8
+48,Patriarchal Cleaning Supplies    ,351.5,284.8,264.8,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236,5,TPCW,2
+86,Soya Cleaning Supplies           ,406.9,345.9,345.9,Specialty Teleconstructors Inc,Attn : Zylina Cox         ,2161 Chalmers Street  ,Salinas         ,CA,93905,5,TPCW,1
+90,Curiouser Cleaning Supplies      ,419.4,364.4,338.9,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,5,TPCW,5
+96,Drafty Cleaning Supplies         ,107.1,92.7,89,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,5,TPCW,3
+46,Distantly Paper Supplies         ,518.5,436.1,418.6,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,6,TPCW,6
+50,Restarts Paper Supplies          ,524.4,448.3,425.9,Specialty Teleconstructors Inc,Attn : Zylina Cox         ,2161 Chalmers St      ,Salinas         ,CA,93905,6,TPCW,1
+84,Unjust Paper Supplies            ,222.5,182.2,176.7,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,6,TPCW,7
+89,Travel Paper Supplies            ,129.8,108.8,103.4,Saurer Gruppe Holding Ag      ,Attn : Pearce Valdez      ,3727 Elms Drive       ,South Saint Paul,MN,55077,6,TPCW,10
+97,Stickiest Paper Supplies         ,575.9,502.8,467.6,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Talahassee      ,FL,32304,6,TPCW,3
+105,Just Paper Supplies              ,278.6,201.3,192.7,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,6,TPCW,7
+27,Pinnings Plastic Supplies        ,337.2,302.4,287.3,Saurer Gruppe Holding Ag      ,Attn : Pearce Valdez      ,3727 Elms Drive       ,South Saint Paul,MN,55077,7,TPCW,10
+39,Overlays Plastic Supplies        ,301.1,254.4,241.7,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,7,TPCW,7
+55,Bumblers Plastic Supplies        ,545.3,466.2,447.6,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,7,TPCW,6
+58,Characterization Plastic Supplies,231.7,185.6,168.9,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,7,TPCW,9
+59,Tonnage Plastic Supplies         ,368.8,315.6,309.3,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,7,TPCW,7
+79,Siena Plastic Supplies           ,155,136.4,132.3,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,7,TPCW,3
+80,Temporally Plastic Supplies      ,477.5,408.3,371.5,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,7,TPCW,9
+91,Scribble Plastic Supplies        ,492.4,405.7,397.6,Specialty Teleconstructors Inc,Attn : Zylina Cox         ,2161 Chalmers Street  ,Salinas         ,CA,93905,7,TPCW,1
+10,Defeated Tray Supplies           ,559.7,476.9,448.3,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,8,TPCW,8
+23,Decided Tray Supplies            ,233.3,202.3,198.2,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,8,TPCW,5
+31,Simplifier Tray Supplies         ,408.8,349.1,328.2,Saurer Gruppe Holding Ag      ,Attn : Pearce Valdez      ,3727 Elms Drive       ,South Saint Paul,MN,55077,8,TPCW,10
+33,Consumable Tray Supplies         ,395.7,347.4,337,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,8,TPCW,6
+41,Consideration Tray Supplies      ,172.6,146.8,139.5,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,8,TPCW,8
+57,South Tray Supplies              ,241.3,205.1,203.1,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236,8,TPCW,2
+69,Hits Tray Supplies               ,439.5,359.1,341.1,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,8,TPCW,3
+72,Anthem Tray Supplies             ,134.9,112.4,109,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,8,TPCW,9
+88,Vestiges Tray Supplies           ,231.4,192.1,186.3,Saurer Gruppe Holding Ag      ,Attn : Pearce Valdez      ,3727 Elms Drive       ,South Saint Paul,MN,55077,8,TPCW,10
+92,Behind Tray Supplies             ,166.7,139,129.3,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,8,TPCW,7
+14,Engle Photo Chemicals            ,429.9,346.1,342.6,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,9,TPCW,3
+54,Honeymoon Photo Chemicals        ,326.1,292.2,271.8,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,9,TPCW,7
+78,Measured Photo Chemicals         ,318.1,270.7,254.4,Immunex Corporation           ,Attn : Elbert Glad        ,5841 Pervades Drive   ,Fairfax         ,VA,22035,9,TPCW,4
+9,Millimeters Flushing Chemicals   ,295.6,251.8,241.8,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,10,TPCW,7
+49,Visage Flushing Chemicals        ,567.8,507.6,467,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,10,TPCW,7
+62,Substances Flushing Chemicals    ,507.3,409.9,397.6,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,10,TPCW,3
+98,Barrels Flushing Chemicals       ,135.1,116.6,108.4,Specialty Teleconstructors Inc,Attn : Zylina Cox         ,2161 Chalmers Street  ,Salinas         ,CA,93905,10,TPCW,1
+42,Carelessly Freezing Chemicals    ,559.7,467.9,425.8,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,11,TPCW,5
+47,Significants Freezing Chemicals  ,141.6,113.2,104.2,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,11,TPCW,5
+52,Identical Freezing Chemicals     ,578.1,465.9,447.3,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian St    ,Clinton         ,MI,49236,11,TPCW,2
+53,Ruffle Freezing Chemicals        ,476.4,394.9,379.1,Immunex Corporation           ,Attn : Elbert Glad        ,5841 Pervades Drive   ,Fairfax         ,VA,22035,11,TPCW,4
+66,Exemplar Freezing Chemicals      ,198.4,160.9,152.8,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,11,TPCW,9
+75,Deferrable Freezing Chemicals    ,145,124.4,113.2,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6027 Ecuadorian Street,Clinton         ,MI,49236,11,TPCW,2
+94,Beliefs Freezing Chemicals       ,566.6,483.9,454.9,Immunex Corporation           ,Attn : Elbert Glad        ,5841 Pervades Drive   ,Fairfax         ,VA,22035,11,TPCW,4
+99,Richards Freezing Chemicals      ,529.4,475.4,470.6,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,11,TPCW,5
+5,Automobiles Fillers              ,283.8,227.6,218.5,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,12,TPCW,8
+7,Commendation Fillers             ,436.3,380,364.8,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,12,TPCW,9
+12,Travelings Photo Chemicals       ,274.4,242,225.1,American General Ventures Inc ,Attn : Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579,12,TPCW,8
+15,Disposed Fillers                 ,158.8,138,132.5,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,12,TPCW,9
+29,Bluest Fillers                   ,507.4,428.2,398.2,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,12,TPCW,3
+64,Berwick Fillers                  ,583.9,487.5,463.1,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,12,TPCW,5
+74,Flanker Fillers                  ,271.4,236.2,219.6,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,12,TPCW,5
+3,Sortie Covers                    ,248.2,213.2,206.8,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,13,TPCW,9
+11,Sulkiness Covers                 ,354.3,289.8,272.4,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Ave      ,S Middleton     ,PA,17007,13,TPCW,5
+13,Coward Covers                    ,429.8,349,328.1,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,13,TPCW,9
+16,Enhanced Covers                  ,461,384.4,361.4,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,13,TPCW,5
+22,Whippers Covers                  ,488.6,410.4,389.9,Specialty Teleconstructors Inc,Attn : Zylina Cox         ,2161 Chalmers Street  ,Salinas         ,CA,93905,13,TPCW,1
+28,Wonderingly Covers               ,547.2,467.3,453.3,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,13,TPCW,7
+43,Blazed Covers                    ,495,416.8,404.3,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,13,TPCW,7
+82,Numerals Covers                  ,102.9,89,83.6,Sinclair Broadcast Group Inc. ,Attn : Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236,13,TPCW,2
+104,LCARS Covers                     ,289.4,231.4,211.8,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,13,TPCW,9
+51,Reflection Lifts                 ,497.9,447.6,438.6,Fedders Corporation           ,Attn : Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366,14,TPCW,9
+83,Horses Lifts                     ,487.3,402.5,366.3,Saurer Gruppe Holding Ag      ,Attn : Pearce Valdez      ,3727 Elms Drive       ,South Saint Paul,MN,55077,14,TPCW,10
+103,Whale Lifts                      ,493.4,406.8,385.4,Saurer Gruppe Holding Ag      ,Attn : Pearce Valdez      ,3727 Elms Drive       ,South Saint Paul,MN,55077,14,TPCW,10
+2,Tailor Jacks                     ,509.8,429.7,399.7,Black Hills Corporation       ,Attn : Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304,15,TPCW,3
+19,Hesitating Jacks                 ,124.5,100.1,96.1,First Bancshares Inc Mo       ,Attn : Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253,15,TPCW,6
+30,Detectives Jacks                 ,283.3,248.5,236.1,Specialty Teleconstructors Inc,Attn : Zylina Cox         ,2161 Chalmers Street  ,Salinas         ,CA,93905,15,TPCW,1
+45,Slacking Jacks                   ,495,400,388,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,15,TPCW,5
+73,Cosgrove Jacks                   ,298.9,267.8,254.4,Afg Industries Inc.           ,Attn : Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967,15,TPCW,7
+76,Scrounge Jacks                   ,301.6,251.2,248.7,Dollar General Corporation    ,Attn : Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007,15,TPCW,5

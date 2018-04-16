@@ -1,0 +1,26 @@
+Collapsed Load Query
+
+INSERT INTO collapsed_fact
+
+select sum(ShipDays),customer_dim.Name,product_dim.Name,
+
+from sales_fact inner join customer_dim 
+on financial_fact.Customer_Sk=customer_dim.Customer_Sk
+inner join product_dim on sales_fact.Product_SK=product_dim.Product_SK group by customer_dim.Name,product_dim.Name;
+
+
+Query 1
+
+select ShipDays,prod_name,cust_name
+from sales_collapsed_fact
+
+where prod_name = 'Chemicals';
+
+
+Query 2
+
+select ShipDays,prod_name,cust_name
+from sales_collapsed_fact
+
+where ShipDays > 2300;
+

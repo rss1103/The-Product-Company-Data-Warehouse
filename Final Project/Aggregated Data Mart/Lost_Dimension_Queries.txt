@@ -1,0 +1,26 @@
+Lost Dimension Load
+
+INSERT INTO sales_lost_fact
+SELECT SUM(ShipDays),customer_dim.customer_Sk
+FROM customer_dim INNER JOIN sales_fact
+ON customer_dim.customer_Sk = financial_fact.customer_Sk
+GROUP BY customer_Sk;
+
+Query 1
+
+select ShipDays ,name
+from sales_lost_fact join customer_dim
+on sales_lost_fact.customer_SK = customer_dim.customer_SK
+where ShipDays > 35000
+group by customer_dim.customer_SK;
+
+
+Query 2
+
+select ShipDays ,name
+from sales_lost_fact join customer_dim
+on sales_lost_fact.customer_SK = customer_dim.customer_SK
+
+where customer_dim.customer_SK > 10
+
+group by customer_dim.customer_SK;
